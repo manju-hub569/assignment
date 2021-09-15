@@ -32,7 +32,7 @@ function List() {
                     return (
                         <>
                             <h2 style = {{textAlign:'center'}}>
-                                j{val.name}
+                                {val.name}
                             </h2>
                         </>
                     )
